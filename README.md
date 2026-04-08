@@ -13,13 +13,13 @@ A Python-based tool to scan open ports on a target system using socket programmi
 - Fast scanning with threading
 
 ## 🎥 Demo
-![Demo](port-scanner.gif)
+![Demo](port_scanner.gif)
 
 ## 🚀 Usage
 1. Clone the repository:
 ```bash
-git clone https://github.com/vishujangra3770/port-scanner-python.git
-cd port-scanner-python
+git clone https://github.com/vishujangra3770/port_scanner.git
+cd port_scanner
 ```
 2. Run the script:
 ```bash
